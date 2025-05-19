@@ -50,3 +50,5 @@ document.addEventListener("DOMContentLoaded", () => {
 
   observer.observe(document.querySelector("#sentinel"));
 });
+
+console.log("update test");
