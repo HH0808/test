@@ -52,3 +52,4 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 console.log("update test");
+console.log("update test2");
