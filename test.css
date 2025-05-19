@@ -1,0 +1,18 @@
+#sentinel {
+  height: 1px;
+  margin-top: 20px;
+}
+body {
+  min-height: 200vh; /* 또는 충분한 컨텐츠 높이를 강제로 줌 */
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.movie {
+  margin-bottom: 20px;
+}
+
+img {
+  width: 100%;
+  max-width: 300px;
+}
